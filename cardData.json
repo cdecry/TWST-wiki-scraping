@@ -1,0 +1,5450 @@
+[
+    {
+      "name": "Ace (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/7b/Icon_Ace_R_PE_Uniform.png/50px-Icon_Ace_R_PE_Uniform.png",
+      "type": "Defense",
+      "maxHP": "8,957",
+      "maxATK": "3,763",
+      "spells": "Water Shot Forest Strike",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ace (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/eb/Icon_Ace_R_School_Uniform.png/50px-Icon_Ace_R_School_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "7,694",
+      "maxATK": "4,347",
+      "spells": "Leaf Shot Flame Blast",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ace (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a2/Icon_Ace_SR_Ceremonial_Robes.png/50px-Icon_Ace_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "6,520",
+      "maxATK": "6,576",
+      "spells": "Forest Strike Flame Blast II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ace (SR Gala Couture)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/66/Icon_Ace_SR_Gala_Couture.png/50px-Icon_Ace_SR_Gala_Couture.png",
+      "type": "Attack",
+      "maxHP": "8,638",
+      "maxATK": "5,240",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ace (SR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/0e/Icon_Ace_SR_Halloween.png/50px-Icon_Ace_SR_Halloween.png",
+      "type": "Balanced",
+      "maxHP": "8,690",
+      "maxATK": "4,850",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ace (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/10/Icon_Ace_SR_Labwear.png/50px-Icon_Ace_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "12,453",
+      "maxATK": "3,679",
+      "spells": "Zero Ray Water Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ace (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e5/Icon_Ace_SSR_Birthday_Jacket.png/50px-Icon_Ace_SSR_Birthday_Jacket.png",
+      "type": "Balanced",
+      "maxHP": "11,529",
+      "maxATK": "6,222",
+      "spells": "Zero Ray Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ace (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/fb/Icon_Ace_SSR_Broomquet_Birthday.png/50px-Icon_Ace_SSR_Broomquet_Birthday.png",
+      "type": "Balanced",
+      "maxHP": "12,064",
+      "maxATK": "5,940",
+      "spells": "Aqua Wave Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ace (SSR Club Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/db/Icon_Ace_SSR_Club_Wear.png/50px-Icon_Ace_SSR_Club_Wear.png",
+      "type": "Attack",
+      "maxHP": "8,494",
+      "maxATK": "7,750",
+      "spells": "Forest Strike Aqua Wave II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ace (SSR Suitor Suit)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/be/Icon_Ace_SSR_Suitor_Suit.png/50px-Icon_Ace_SSR_Suitor_Suit.png",
+      "type": "Attack",
+      "maxHP": "8,683",
+      "maxATK": "7,574",
+      "spells": "Flame Blast II Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (R Outdoor Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/95/Icon_Azul_R_Outdoor_Wear.png/50px-Icon_Azul_R_Outdoor_Wear.png",
+      "type": "Attack",
+      "maxHP": "5,201",
+      "maxATK": "5,326",
+      "spells": "Water Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/32/Icon_Azul_R_PE_Uniform.png/50px-Icon_Azul_R_PE_Uniform.png",
+      "type": "Attack",
+      "maxHP": "7,048",
+      "maxATK": "4,613",
+      "spells": "Fire Shot Forest Strike",
+      "buddies": [
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/1e/Icon_Azul_R_School_Uniform.png/50px-Icon_Azul_R_School_Uniform.png",
+      "type": "Defense",
+      "maxHP": "10,681",
+      "maxATK": "3,076",
+      "spells": "Water Shot Flame Blast",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/43/Icon_Azul_SR_Ceremonial_Robes.png/50px-Icon_Azul_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "7,003",
+      "maxATK": "6,122",
+      "spells": "Zero Ray Forest Strike II",
+      "buddies": [
+        {
+          "name": "Floyd",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (SR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/30/Icon_Azul_SR_Halloween.png/50px-Icon_Azul_SR_Halloween.png",
+      "type": "Defense",
+      "maxHP": "12,528",
+      "maxATK": "3,660",
+      "spells": "Forest Strike Void Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/61/Icon_Azul_SR_Labwear.png/50px-Icon_Azul_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "10,592",
+      "maxATK": "4,441",
+      "spells": "Forest Strike Fire Shot II",
+      "buddies": [
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (SSR Beans Camo)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/8a/Icon_Azul_SSR_Beans_Camo.png/50px-Icon_Azul_SSR_Beans_Camo.png",
+      "type": "Defense",
+      "maxHP": "13,407",
+      "maxATK": "5,387",
+      "spells": "Zero Ray Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Jack",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/f0/Icon_Azul_SSR_Birthday_Boy.png/50px-Icon_Azul_SSR_Birthday_Boy.png",
+      "type": "Defense",
+      "maxHP": "13,874",
+      "maxATK": "5,206",
+      "spells": "Aqua Wave Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c7/Icon_Azul_SSR_Birthday_Jacket.png/50px-Icon_Azul_SSR_Birthday_Jacket.png",
+      "type": "Attack",
+      "maxHP": "10,276",
+      "maxATK": "6,776",
+      "spells": "Flame Blast Forest Strike II Void Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/7d/Icon_Azul_SSR_Broomquet_Birthday.png/50px-Icon_Azul_SSR_Broomquet_Birthday.png",
+      "type": "Balanced",
+      "maxHP": "11,594",
+      "maxATK": "6,185",
+      "spells": "Forest Strike Flame Blast II Void Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/47/Icon_Azul_SSR_Dorm_Uniform.png/50px-Icon_Azul_SSR_Dorm_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "11,900",
+      "maxATK": "6,030",
+      "spells": "Aqua Wave Aqua Wave II Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (SSR Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/b1/Icon_Azul_SSR_Masquerade_Dress.png/50px-Icon_Azul_SSR_Masquerade_Dress.png",
+      "type": "Balanced",
+      "maxHP": "12,267",
+      "maxATK": "5,837",
+      "spells": "Aqua Wave Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Azul (SSR Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/96/Icon_Azul_SSR_Tsumsted.png/50px-Icon_Azul_SSR_Tsumsted.png",
+      "type": "Attack",
+      "maxHP": "10,648",
+      "maxATK": "6,567",
+      "spells": "Zero Ray Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (R Beans Camo)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/0a/Icon_Cater_R_Beans_Camo.png/50px-Icon_Cater_R_Beans_Camo.png",
+      "type": "Attack",
+      "maxHP": "5,900",
+      "maxATK": "5,211",
+      "spells": "Fire Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Malleus",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/2b/Icon_Cater_R_PE_Uniform.png/50px-Icon_Cater_R_PE_Uniform.png",
+      "type": "Attack",
+      "maxHP": "6,751",
+      "maxATK": "4,813",
+      "spells": "Aqua Wave Fire Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/fa/Icon_Cater_R_School_Uniform.png/50px-Icon_Cater_R_School_Uniform.png",
+      "type": "Defense",
+      "maxHP": "9,087",
+      "maxATK": "3,710",
+      "spells": "Leaf Shot Flame Blast",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/ad/Icon_Cater_SR_Apprentice_Chef.png/50px-Icon_Cater_SR_Apprentice_Chef.png",
+      "type": "Attack",
+      "maxHP": "8,118",
+      "maxATK": "5,587",
+      "spells": "Forest Strike Water Shot II",
+      "buddies": [
+        {
+          "name": "Kalim",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e5/Icon_Cater_SR_Ceremonial_Robes.png/50px-Icon_Cater_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "6,713",
+      "maxATK": "6,396",
+      "spells": "Flame Blast Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/5a/Icon_Cater_SR_Labwear.png/50px-Icon_Cater_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "12,637",
+      "maxATK": "3,629",
+      "spells": "Aqua Wave Forest Strike II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SR New Year's Attire)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c7/Icon_Cater_SR_New_Year%27s_Attire.png/50px-Icon_Cater_SR_New_Year%27s_Attire.png",
+      "type": "Defense",
+      "maxHP": "13,115",
+      "maxATK": "3,497",
+      "spells": "Forest Strike Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Minor HP & Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SR Silk Adorned)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e4/Icon_Cater_SR_Silk_Adorned.png/50px-Icon_Cater_SR_Silk_Adorned.png",
+      "type": "Balanced",
+      "maxHP": "8,716",
+      "maxATK": "4,837",
+      "spells": "Fire Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SR Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/ed/Icon_Cater_SR_Tsumsted.png/50px-Icon_Cater_SR_Tsumsted.png",
+      "type": "Attack",
+      "maxHP": "8,426",
+      "maxATK": "5,382",
+      "spells": "Aqua Wave Fire Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Deuce",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/03/Icon_Cater_SSR_Birthday_Boy.png/50px-Icon_Cater_SSR_Birthday_Boy.png",
+      "type": "Attack",
+      "maxHP": "10,534",
+      "maxATK": "6,601",
+      "spells": "Zero Ray Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/b7/Icon_Cater_SSR_Birthday_Jacket.png/50px-Icon_Cater_SSR_Birthday_Jacket.png",
+      "type": "Balanced",
+      "maxHP": "11,999",
+      "maxATK": "5,978",
+      "spells": "Forest Strike Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/16/Icon_Cater_SSR_Broomquet_Birthday.png/50px-Icon_Cater_SSR_Broomquet_Birthday.png",
+      "type": "Defense",
+      "maxHP": "14,303",
+      "maxATK": "5,038",
+      "spells": "Flame Blast Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Deuce",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/1c/Icon_Cater_SSR_Dorm_Uniform.png/50px-Icon_Cater_SSR_Dorm_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "11,698",
+      "maxATK": "6,133",
+      "spells": "Forest Strike Flame Blast II Void Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Leona",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SSR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e1/Icon_Cater_SSR_Halloween.png/50px-Icon_Cater_SSR_Halloween.png",
+      "type": "Defense",
+      "maxHP": "13,135",
+      "maxATK": "5,491",
+      "spells": "Forest Strike Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Cater (SSR Pop Music T-Shirt)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/4e/Icon_Cater_SSR_Pop_Music_T-Shirt.png/50px-Icon_Cater_SSR_Pop_Music_T-Shirt.png",
+      "type": "Attack",
+      "maxHP": "8,733",
+      "maxATK": "7,527",
+      "spells": "Flame Blast Forest Strike II Water Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (R Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/55/Icon_Deuce_R_Halloween.png/50px-Icon_Deuce_R_Halloween.png",
+      "type": "Attack",
+      "maxHP": "5,541",
+      "maxATK": "5,008",
+      "spells": "Water Shot Void Shot II",
+      "buddies": [
+        {
+          "name": "Sebek",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/24/Icon_Deuce_R_PE_Uniform.png/50px-Icon_Deuce_R_PE_Uniform.png",
+      "type": "Attack",
+      "maxHP": "6,654",
+      "maxATK": "4,878",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ortho",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/00/Icon_Deuce_R_School_Uniform.png/50px-Icon_Deuce_R_School_Uniform.png",
+      "type": "Defense",
+      "maxHP": "10,367",
+      "maxATK": "3,163",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (R Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/14/Icon_Deuce_R_Tsumsted.png/50px-Icon_Deuce_R_Tsumsted.png",
+      "type": "Defense",
+      "maxHP": "10,030",
+      "maxATK": "2,959",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/56/Icon_Deuce_SR_Apprentice_Chef.png/50px-Icon_Deuce_SR_Apprentice_Chef.png",
+      "type": "Defense",
+      "maxHP": "12,344",
+      "maxATK": "3,710",
+      "spells": "Forest Strike Fire Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/ed/Icon_Deuce_SR_Ceremonial_Robes.png/50px-Icon_Deuce_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "6,616",
+      "maxATK": "6,486",
+      "spells": "Aqua Wave Flame Blast II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/74/Icon_Deuce_SR_Labwear.png/50px-Icon_Deuce_SR_Labwear.png",
+      "type": "Balanced",
+      "maxHP": "9,094",
+      "maxATK": "5,134",
+      "spells": "Zero Ray Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (SR Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e3/Icon_Deuce_SR_Masquerade_Dress.png/50px-Icon_Deuce_SR_Masquerade_Dress.png",
+      "type": "Defense",
+      "maxHP": "8,694",
+      "maxATK": "4,005",
+      "spells": "Fire Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (SR New Year's Attire)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/6b/Icon_Deuce_SR_New_Year%27s_Attire.png/50px-Icon_Deuce_SR_New_Year%27s_Attire.png",
+      "type": "Attack",
+      "maxHP": "7,487",
+      "maxATK": "5,458",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/82/Icon_Deuce_SSR_Birthday_Boy.png/50px-Icon_Deuce_SSR_Birthday_Boy.png",
+      "type": "Attack",
+      "maxHP": "10,362",
+      "maxATK": "6,718",
+      "spells": "Zero Ray Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Cater",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e0/Icon_Deuce_SSR_Birthday_Jacket.png/50px-Icon_Deuce_SSR_Birthday_Jacket.png",
+      "type": "Attack",
+      "maxHP": "10,684",
+      "maxATK": "6,504",
+      "spells": "Flame Blast Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/ca/Icon_Deuce_SSR_Dorm_Uniform.png/50px-Icon_Deuce_SSR_Dorm_Uniform.png",
+      "type": "Defense",
+      "maxHP": "14,030",
+      "maxATK": "5,142",
+      "spells": "Zero Ray Aqua Wave II Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Deuce (SSR Starsending Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/83/Icon_Deuce_SSR_Starsending_Robes.png/50px-Icon_Deuce_SSR_Starsending_Robes.png",
+      "type": "Balanced",
+      "maxHP": "12,168",
+      "maxATK": "5,889",
+      "spells": "Aqua Wave Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor HP & Power Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (R Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/8e/Icon_Epel_R_Halloween.png/50px-Icon_Epel_R_Halloween.png",
+      "type": "Attack",
+      "maxHP": "6,772",
+      "maxATK": "4,331",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/eb/Icon_Epel_R_PE_Uniform.png/50px-Icon_Epel_R_PE_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "7,602",
+      "maxATK": "4,397",
+      "spells": "Leaf Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/47/Icon_Epel_R_School_Uniform.png/50px-Icon_Epel_R_School_Uniform.png",
+      "type": "Defense",
+      "maxHP": "11,148",
+      "maxATK": "2,948",
+      "spells": "Flame Blast Water Shot II",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (R Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/19/Icon_Epel_R_Tsumsted.png/50px-Icon_Epel_R_Tsumsted.png",
+      "type": "Attack",
+      "maxHP": "5,526",
+      "maxATK": "5,026",
+      "spells": "Water Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/fc/Icon_Epel_SR_Ceremonial_Robes.png/50px-Icon_Epel_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "6,752",
+      "maxATK": "6,359",
+      "spells": "Forest Strike Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/2a/Icon_Epel_SR_Labwear.png/50px-Icon_Epel_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "11,214",
+      "maxATK": "4,192",
+      "spells": "Aqua Wave Void Shot II",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (SR Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/90/Icon_Epel_SR_Masquerade_Dress.png/50px-Icon_Epel_SR_Masquerade_Dress.png",
+      "type": "Attack",
+      "maxHP": "8,613",
+      "maxATK": "5,258",
+      "spells": "Aqua Wave Fire Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (SR Suitor Suit)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e9/Icon_Epel_SR_Suitor_Suit.png/50px-Icon_Epel_SR_Suitor_Suit.png",
+      "type": "Defense",
+      "maxHP": "12,898",
+      "maxATK": "3,559",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (SSR Apple Boa)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/79/Icon_Epel_SSR_Apple_Boa.png/50px-Icon_Epel_SSR_Apple_Boa.png",
+      "type": "Attack",
+      "maxHP": "9,868",
+      "maxATK": "7,054",
+      "spells": "Aqua Wave Zero Ray II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor HP boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor Power boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Modest HP boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/3b/Icon_Epel_SSR_Birthday_Boy.png/50px-Icon_Epel_SSR_Birthday_Boy.png",
+      "type": "Balanced",
+      "maxHP": "12,102",
+      "maxATK": "5,926",
+      "spells": "Forest Strike Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/6e/Icon_Epel_SSR_Birthday_Jacket.png/50px-Icon_Epel_SSR_Birthday_Jacket.png",
+      "type": "Defense",
+      "maxHP": "13,369",
+      "maxATK": "5,401",
+      "spells": "Zero Ray Forest Strike II Water Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Epel (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/59/Icon_Epel_SSR_Dorm_Uniform.png/50px-Icon_Epel_SSR_Dorm_Uniform.png",
+      "type": "Defense",
+      "maxHP": "15,299",
+      "maxATK": "4,591",
+      "spells": "Aqua Wave Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor HP & Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (R Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/1a/Icon_Floyd_R_Halloween.png/50px-Icon_Floyd_R_Halloween.png",
+      "type": "Defense",
+      "maxHP": "10,085",
+      "maxATK": "2,940",
+      "spells": "Leaf Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/68/Icon_Floyd_R_PE_Uniform.png/50px-Icon_Floyd_R_PE_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "8,148",
+      "maxATK": "4,107",
+      "spells": "Fire Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (R Port Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/61/Icon_Floyd_R_Port_Wear.png/50px-Icon_Floyd_R_Port_Wear.png",
+      "type": "Attack",
+      "maxHP": "5,280",
+      "maxATK": "5,257",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/f4/Icon_Floyd_R_School_Uniform.png/50px-Icon_Floyd_R_School_Uniform.png",
+      "type": "Attack",
+      "maxHP": "5,605",
+      "maxATK": "5,488",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/61/Icon_Floyd_SR_Apprentice_Chef.png/50px-Icon_Floyd_SR_Apprentice_Chef.png",
+      "type": "Attack",
+      "maxHP": "8,023",
+      "maxATK": "5,654",
+      "spells": "Flame Blast Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/ca/Icon_Floyd_SR_Ceremonial_Robes.png/50px-Icon_Floyd_SR_Ceremonial_Robes.png",
+      "type": "Defense",
+      "maxHP": "13,191",
+      "maxATK": "3,478",
+      "spells": "Forest Strike Aqua Wave II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/b2/Icon_Floyd_SR_Labwear.png/50px-Icon_Floyd_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "10,748",
+      "maxATK": "4,379",
+      "spells": "Aqua Wave Void Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SR Outdoor Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/19/Icon_Floyd_SR_Outdoor_Wear.png/50px-Icon_Floyd_SR_Outdoor_Wear.png",
+      "type": "Attack",
+      "maxHP": "6,694",
+      "maxATK": "6,411",
+      "spells": "Aqua Wave Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SR Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/02/Icon_Floyd_SR_Tsumsted.png/50px-Icon_Floyd_SR_Tsumsted.png",
+      "type": "Balanced",
+      "maxHP": "9,146",
+      "maxATK": "5,104",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SSR Beans Camo)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/0c/Icon_Floyd_SSR_Beans_Camo.png/50px-Icon_Floyd_SSR_Beans_Camo.png",
+      "type": "Balanced",
+      "maxHP": "11,731",
+      "maxATK": "6,114",
+      "spells": "Forest Strike Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/06/Icon_Floyd_SSR_Birthday_Boy.png/50px-Icon_Floyd_SSR_Birthday_Boy.png",
+      "type": "Defense",
+      "maxHP": "13,330",
+      "maxATK": "5,419",
+      "spells": "Zero Ray Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/1f/Icon_Floyd_SSR_Birthday_Jacket.png/50px-Icon_Floyd_SSR_Birthday_Jacket.png",
+      "type": "Attack",
+      "maxHP": "10,448",
+      "maxATK": "6,660",
+      "spells": "Flame Blast Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jack",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/2d/Icon_Floyd_SSR_Broomquet_Birthday.png/50px-Icon_Floyd_SSR_Broomquet_Birthday.png",
+      "type": "Attack",
+      "maxHP": "10,711",
+      "maxATK": "6,485",
+      "spells": "Zero Ray Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SSR Club Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/aa/Icon_Floyd_SSR_Club_Wear.png/50px-Icon_Floyd_SSR_Club_Wear.png",
+      "type": "Defense",
+      "maxHP": "15,325",
+      "maxATK": "4,612",
+      "spells": "Aqua Wave Forest Strike II Void Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Floyd (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/6f/Icon_Floyd_SSR_Dorm_Uniform.png/50px-Icon_Floyd_SSR_Dorm_Uniform.png",
+      "type": "Attack",
+      "maxHP": "10,566",
+      "maxATK": "6,582",
+      "spells": "Flame Blast Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Grim (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/df/Icon_Grim_SR_Ceremonial_Robes.png/50px-Icon_Grim_SR_Ceremonial_Robes.png",
+      "type": "Balanced",
+      "maxHP": "9,795",
+      "maxATK": "4,764",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor HP & Power Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Grim (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c0/Icon_Grim_SR_Labwear.png/50px-Icon_Grim_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "10,996",
+      "maxATK": "4,279",
+      "spells": "Flame Blast Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Grim (SR Striped Ribbon)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/62/Icon_Grim_SR_Striped_Ribbon.png/50px-Icon_Grim_SR_Striped_Ribbon.png",
+      "type": "Attack",
+      "maxHP": "8,002",
+      "maxATK": "5,667",
+      "spells": "Zero Ray Void Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Deuce",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (R Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/68/Icon_Idia_R_Halloween.png/50px-Icon_Idia_R_Halloween.png",
+      "type": "Balanced",
+      "maxHP": "7,392",
+      "maxATK": "4,086",
+      "spells": "Water Shot Forest Strike",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/bb/Icon_Idia_R_PE_Uniform.png/50px-Icon_Idia_R_PE_Uniform.png",
+      "type": "Defense",
+      "maxHP": "10,339",
+      "maxATK": "3,175",
+      "spells": "Fire Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e4/Icon_Idia_R_School_Uniform.png/50px-Icon_Idia_R_School_Uniform.png",
+      "type": "Attack",
+      "maxHP": "5,851",
+      "maxATK": "5,257",
+      "spells": "Leaf Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ortho",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (SR Apple Boa)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/94/Icon_Idia_SR_Apple_Boa.png/50px-Icon_Idia_SR_Apple_Boa.png",
+      "type": "Attack",
+      "maxHP": "6,670",
+      "maxATK": "5,805",
+      "spells": "Void Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/0c/Icon_Idia_SR_Ceremonial_Robes.png/50px-Icon_Idia_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "8,447",
+      "maxATK": "5,369",
+      "spells": "Flame Blast Forest Strike II",
+      "buddies": [
+        {
+          "name": "Kalim",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/96/Icon_Idia_SR_Labwear.png/50px-Icon_Idia_SR_Labwear.png",
+      "type": "Balanced",
+      "maxHP": "9,498",
+      "maxATK": "4,923",
+      "spells": "Aqua Wave Water Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (SR Starsending Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/50/Icon_Idia_SR_Starsending_Robes.png/50px-Icon_Idia_SR_Starsending_Robes.png",
+      "type": "Defense",
+      "maxHP": "10,623",
+      "maxATK": "3,992",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Vil",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/68/Icon_Idia_SSR_Birthday_Boy.png/50px-Icon_Idia_SSR_Birthday_Boy.png",
+      "type": "Attack",
+      "maxHP": "10,480",
+      "maxATK": "6,640",
+      "spells": "Flame Blast Forest Strike II Water Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/51/Icon_Idia_SSR_Birthday_Jacket.png/50px-Icon_Idia_SSR_Birthday_Jacket.png",
+      "type": "Balanced",
+      "maxHP": "11,327",
+      "maxATK": "6,326",
+      "spells": "Forest Strike Flame Blast II Void Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Leona",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/61/Icon_Idia_SSR_Broomquet_Birthday.png/50px-Icon_Idia_SSR_Broomquet_Birthday.png",
+      "type": "Attack",
+      "maxHP": "10,503",
+      "maxATK": "6,665",
+      "spells": "Aqua Wave Flame Blast II Void Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Trey",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/9f/Icon_Idia_SSR_Dorm_Uniform.png/50px-Icon_Idia_SSR_Dorm_Uniform.png",
+      "type": "Defense",
+      "maxHP": "15,709",
+      "maxATK": "4,478",
+      "spells": "Flame Blast Zero Ray II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (SSR Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/7e/Icon_Idia_SSR_Masquerade_Dress.png/50px-Icon_Idia_SSR_Masquerade_Dress.png",
+      "type": "Defense",
+      "maxHP": "12,979",
+      "maxATK": "5,555",
+      "spells": "Aqua Wave Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Idia (SSR Suitor Suit)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/91/Icon_Idia_SSR_Suitor_Suit.png/50px-Icon_Idia_SSR_Suitor_Suit.png",
+      "type": "Defense",
+      "maxHP": "13,291",
+      "maxATK": "5,432",
+      "spells": "Aqua Wave Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (R Gala Couture)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/39/Icon_Jack_R_Gala_Couture.png/50px-Icon_Jack_R_Gala_Couture.png",
+      "type": "Attack",
+      "maxHP": "5,371",
+      "maxATK": "5,169",
+      "spells": "Fire Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/f8/Icon_Jack_R_PE_Uniform.png/50px-Icon_Jack_R_PE_Uniform.png",
+      "type": "Defense",
+      "maxHP": "10,524",
+      "maxATK": "3,122",
+      "spells": "Leaf Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/90/Icon_Jack_R_School_Uniform.png/50px-Icon_Jack_R_School_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "7,807",
+      "maxATK": "4,288",
+      "spells": "Water Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (R Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/11/Icon_Jack_R_Tsumsted.png/50px-Icon_Jack_R_Tsumsted.png",
+      "type": "Defense",
+      "maxHP": "8,558",
+      "maxATK": "3,552",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Sebek",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (SR Beans Camo)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/9b/Icon_Jack_SR_Beans_Camo.png/50px-Icon_Jack_SR_Beans_Camo.png",
+      "type": "Attack",
+      "maxHP": "8,260",
+      "maxATK": "5,494",
+      "spells": "Forest Strike Water Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/92/Icon_Jack_SR_Ceremonial_Robes.png/50px-Icon_Jack_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "6,810",
+      "maxATK": "6,307",
+      "spells": "Aqua Wave Forest Strike II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (SR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/15/Icon_Jack_SR_Halloween.png/50px-Icon_Jack_SR_Halloween.png",
+      "type": "Balanced",
+      "maxHP": "9,417",
+      "maxATK": "4,962",
+      "spells": "Aqua Wave Void Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/89/Icon_Jack_SR_Labwear.png/50px-Icon_Jack_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "10,432",
+      "maxATK": "4,499",
+      "spells": "Zero Ray Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/44/Icon_Jack_SSR_Birthday_Boy.png/50px-Icon_Jack_SSR_Birthday_Boy.png",
+      "type": "Balanced",
+      "maxHP": "12,032",
+      "maxATK": "5,959",
+      "spells": "Zero Ray Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/15/Icon_Jack_SSR_Birthday_Jacket.png/50px-Icon_Jack_SSR_Birthday_Jacket.png",
+      "type": "Defense",
+      "maxHP": "13,485",
+      "maxATK": "5,355",
+      "spells": "Aqua Wave Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/b9/Icon_Jack_SSR_Broomquet_Birthday.png/50px-Icon_Jack_SSR_Broomquet_Birthday.png",
+      "type": "Defense",
+      "maxHP": "15,621",
+      "maxATK": "4,503",
+      "spells": "Forest Strike Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/bf/Icon_Jack_SSR_Dorm_Uniform.png/50px-Icon_Jack_SSR_Dorm_Uniform.png",
+      "type": "Attack",
+      "maxHP": "9,954",
+      "maxATK": "6,995",
+      "spells": "Flame Blast Forest Strike II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jack (SSR Port Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/12/Icon_Jack_SSR_Port_Wear.png/50px-Icon_Jack_SSR_Port_Wear.png",
+      "type": "Balanced",
+      "maxHP": "12,299",
+      "maxATK": "5,818",
+      "spells": "Flame Blast Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (R Apple Boa)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/d3/Icon_Jade_R_Apple_Boa.png/50px-Icon_Jade_R_Apple_Boa.png",
+      "type": "Attack",
+      "maxHP": "6,906",
+      "maxATK": "4,244",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Sebek",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/b2/Icon_Jade_R_PE_Uniform.png/50px-Icon_Jade_R_PE_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "8,034",
+      "maxATK": "4,166",
+      "spells": "Forest Strike Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/68/Icon_Jade_R_School_Uniform.png/50px-Icon_Jade_R_School_Uniform.png",
+      "type": "Defense",
+      "maxHP": "10,833",
+      "maxATK": "3,035",
+      "spells": "Fire Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Floyd",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (R Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/65/Icon_Jade_R_Tsumsted.png/50px-Icon_Jade_R_Tsumsted.png",
+      "type": "Attack",
+      "maxHP": "5,586",
+      "maxATK": "4,961",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Lilia",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/7e/Icon_Jade_SR_Apprentice_Chef.png/50px-Icon_Jade_SR_Apprentice_Chef.png",
+      "type": "Balanced",
+      "maxHP": "9,309",
+      "maxATK": "5,022",
+      "spells": "Aqua Wave Void Shot II",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (SR Beans Camo)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/f7/Icon_Jade_SR_Beans_Camo.png/50px-Icon_Jade_SR_Beans_Camo.png",
+      "type": "Defense",
+      "maxHP": "12,377",
+      "maxATK": "3,702",
+      "spells": "Flame Blast Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Idia",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/1c/Icon_Jade_SR_Ceremonial_Robes.png/50px-Icon_Jade_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "7,100",
+      "maxATK": "6,032",
+      "spells": "Flame Blast Void Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e6/Icon_Jade_SR_Labwear.png/50px-Icon_Jade_SR_Labwear.png",
+      "type": "Attack",
+      "maxHP": "8,093",
+      "maxATK": "5,605",
+      "spells": "Aqua Wave Forest Strike II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (SR Outdoor Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/56/Icon_Jade_SR_Outdoor_Wear.png/50px-Icon_Jade_SR_Outdoor_Wear.png",
+      "type": "Attack",
+      "maxHP": "6,156",
+      "maxATK": "6,278",
+      "spells": "Water Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/fe/Icon_Jade_SSR_Birthday_Boy.png/50px-Icon_Jade_SSR_Birthday_Boy.png",
+      "type": "Balanced",
+      "maxHP": "11,797",
+      "maxATK": "6,081",
+      "spells": "Forest Strike Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/81/Icon_Jade_SSR_Birthday_Jacket.png/50px-Icon_Jade_SSR_Birthday_Jacket.png",
+      "type": "Balanced",
+      "maxHP": "11,359",
+      "maxATK": "6,307",
+      "spells": "Zero Ray Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e4/Icon_Jade_SSR_Broomquet_Birthday.png/50px-Icon_Jade_SSR_Broomquet_Birthday.png",
+      "type": "Attack",
+      "maxHP": "10,099",
+      "maxATK": "6,898",
+      "spells": "Flame Blast Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/bb/Icon_Jade_SSR_Dorm_Uniform.png/50px-Icon_Jade_SSR_Dorm_Uniform.png",
+      "type": "Defense",
+      "maxHP": "13,213",
+      "maxATK": "5,464",
+      "spells": "Aqua Wave Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jade (SSR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/68/Icon_Jade_SSR_Halloween.png/50px-Icon_Jade_SSR_Halloween.png",
+      "type": "Attack",
+      "maxHP": "10,244",
+      "maxATK": "6,796",
+      "spells": "Aqua Wave Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (R Beans Camo)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a9/Icon_Jamil_R_Beans_Camo.png/50px-Icon_Jamil_R_Beans_Camo.png",
+      "type": "Defense",
+      "maxHP": "8,836",
+      "maxATK": "3,442",
+      "spells": "Leaf Shot Void Shot II",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (R Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/49/Icon_Jamil_R_Halloween.png/50px-Icon_Jamil_R_Halloween.png",
+      "type": "Balanced",
+      "maxHP": "7,266",
+      "maxATK": "4,153",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/3c/Icon_Jamil_R_PE_Uniform.png/50px-Icon_Jamil_R_PE_Uniform.png",
+      "type": "Defense",
+      "maxHP": "10,990",
+      "maxATK": "2,993",
+      "spells": "Flame Blast Water Shot II",
+      "buddies": [
+        {
+          "name": "Floyd",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/0a/Icon_Jamil_R_School_Uniform.png/50px-Icon_Jamil_R_School_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "8,261",
+      "maxATK": "4,048",
+      "spells": "Water Shot Flame Blast",
+      "buddies": [
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/29/Icon_Jamil_SR_Apprentice_Chef.png/50px-Icon_Jamil_SR_Apprentice_Chef.png",
+      "type": "Attack",
+      "maxHP": "7,061",
+      "maxATK": "6,070",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/50/Icon_Jamil_SR_Ceremonial_Robes.png/50px-Icon_Jamil_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "6,558",
+      "maxATK": "6,539",
+      "spells": "Forest Strike Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SR Gala Couture)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c1/Icon_Jamil_SR_Gala_Couture.png/50px-Icon_Jamil_SR_Gala_Couture.png",
+      "type": "Attack",
+      "maxHP": "8,048",
+      "maxATK": "5,636",
+      "spells": "Forest Strike Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e6/Icon_Jamil_SR_Labwear.png/50px-Icon_Jamil_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "10,903",
+      "maxATK": "4,317",
+      "spells": "Flame Blast Forest Strike II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SR Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/ab/Icon_Jamil_SR_Masquerade_Dress.png/50px-Icon_Jamil_SR_Masquerade_Dress.png",
+      "type": "Balanced",
+      "maxHP": "9,743",
+      "maxATK": "4,794",
+      "spells": "Forest Strike Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/ff/Icon_Jamil_SSR_Birthday_Boy.png/50px-Icon_Jamil_SSR_Birthday_Boy.png",
+      "type": "Balanced",
+      "maxHP": "11,162",
+      "maxATK": "6,415",
+      "spells": "Forest Strike Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c6/Icon_Jamil_SSR_Birthday_Jacket.png/50px-Icon_Jamil_SSR_Birthday_Jacket.png",
+      "type": "Attack",
+      "maxHP": "10,625",
+      "maxATK": "6,543",
+      "spells": "Aqua Wave Forest Strike II Void Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/9b/Icon_Jamil_SSR_Broomquet_Birthday.png/50px-Icon_Jamil_SSR_Broomquet_Birthday.png",
+      "type": "Defense",
+      "maxHP": "14,108",
+      "maxATK": "5,115",
+      "spells": "Forest Strike Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SSR Club Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/91/Icon_Jamil_SSR_Club_Wear.png/50px-Icon_Jamil_SSR_Club_Wear.png",
+      "type": "Balanced",
+      "maxHP": "11,496",
+      "maxATK": "6,236",
+      "spells": "Zero Ray Aqua Wave II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a7/Icon_Jamil_SSR_Dorm_Uniform.png/50px-Icon_Jamil_SSR_Dorm_Uniform.png",
+      "type": "Attack",
+      "maxHP": "10,158",
+      "maxATK": "6,859",
+      "spells": "Zero Ray Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Jamil (SSR Silk Adorned)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/08/Icon_Jamil_SSR_Silk_Adorned.png/50px-Icon_Jamil_SSR_Silk_Adorned.png",
+      "type": "Defense",
+      "maxHP": "16,078",
+      "maxATK": "4,377",
+      "spells": "Aqua Wave Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Cater",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (R Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/68/Icon_Kalim_R_Halloween.png/50px-Icon_Kalim_R_Halloween.png",
+      "type": "Defense",
+      "maxHP": "9,965",
+      "maxATK": "2,974",
+      "spells": "Leaf Shot Flame Blast",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/9a/Icon_Kalim_R_PE_Uniform.png/50px-Icon_Kalim_R_PE_Uniform.png",
+      "type": "Attack",
+      "maxHP": "5,685",
+      "maxATK": "5,410",
+      "spells": "Water Shot Forest Strike",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/5d/Icon_Kalim_R_School_Uniform.png/50px-Icon_Kalim_R_School_Uniform.png",
+      "type": "Defense",
+      "maxHP": "9,482",
+      "maxATK": "3,552",
+      "spells": "Zero Ray Water Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/61/Icon_Kalim_SR_Apprentice_Chef.png/50px-Icon_Kalim_SR_Apprentice_Chef.png",
+      "type": "Defense",
+      "maxHP": "11,436",
+      "maxATK": "4,109",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/7b/Icon_Kalim_SR_Ceremonial_Robes.png/50px-Icon_Kalim_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "8,214",
+      "maxATK": "5,525",
+      "spells": "Forest Strike Void Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SR Gala Couture)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/36/Icon_Kalim_SR_Gala_Couture.png/50px-Icon_Kalim_SR_Gala_Couture.png",
+      "type": "Balanced",
+      "maxHP": "9,124",
+      "maxATK": "4,618",
+      "spells": "Water Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SR Kingly Garb)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/4b/Icon_Kalim_SR_Kingly_Garb.png/50px-Icon_Kalim_SR_Kingly_Garb.png",
+      "type": "Attack",
+      "maxHP": "7,022",
+      "maxATK": "6,108",
+      "spells": "Forest Strike Fire Shot II",
+      "buddies": [
+        {
+          "name": "Vil",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c3/Icon_Kalim_SR_Labwear.png/50px-Icon_Kalim_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "13,376",
+      "maxATK": "3,428",
+      "spells": "Flame Blast Fire Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/17/Icon_Kalim_SSR_Birthday_Boy.png/50px-Icon_Kalim_SSR_Birthday_Boy.png",
+      "type": "Defense",
+      "maxHP": "13,057",
+      "maxATK": "5,523",
+      "spells": "Flame Blast II Forest Strike II Void Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/9e/Icon_Kalim_SSR_Birthday_Jacket.png/50px-Icon_Kalim_SSR_Birthday_Jacket.png",
+      "type": "Attack",
+      "maxHP": "10,126",
+      "maxATK": "6,879",
+      "spells": "Aqua Wave Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/28/Icon_Kalim_SSR_Dorm_Uniform.png/50px-Icon_Kalim_SSR_Dorm_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "11,294",
+      "maxATK": "6,345",
+      "spells": "Aqua Wave Zero Ray II Water Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SSR New Year's Attire)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/55/Icon_Kalim_SSR_New_Year%27s_Attire.png/50px-Icon_Kalim_SSR_New_Year%27s_Attire.png",
+      "type": "Balanced",
+      "maxHP": "12,135",
+      "maxATK": "5,907",
+      "spells": "Aqua Wave Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Leona",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SSR Pop Music T-Shirt)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/ec/Icon_Kalim_SSR_Pop_Music_T-Shirt.png/50px-Icon_Kalim_SSR_Pop_Music_T-Shirt.png",
+      "type": "Defense",
+      "maxHP": "13,252",
+      "maxATK": "5,446",
+      "spells": "Forest Strike Aqua Wave II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Kalim (SSR Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e7/Icon_Kalim_SSR_Tsumsted.png/50px-Icon_Kalim_SSR_Tsumsted.png",
+      "type": "Defense",
+      "maxHP": "16,265",
+      "maxATK": "4,326",
+      "spells": "Flame Blast Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jack",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (R Outdoor Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/73/Icon_Leona_R_Outdoor_Wear.png/50px-Icon_Leona_R_Outdoor_Wear.png",
+      "type": "Balanced",
+      "maxHP": "7,807",
+      "maxATK": "3,872",
+      "spells": "Void Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Sebek",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/cc/Icon_Leona_R_PE_Uniform.png/50px-Icon_Leona_R_PE_Uniform.png",
+      "type": "Defense",
+      "maxHP": "9,352",
+      "maxATK": "3,605",
+      "spells": "Fire Shot Aqua Wave",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a7/Icon_Leona_R_School_Uniform.png/50px-Icon_Leona_R_School_Uniform.png",
+      "type": "Attack",
+      "maxHP": "6,853",
+      "maxATK": "4,743",
+      "spells": "Forest Strike Fire Shot",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/89/Icon_Leona_SR_Ceremonial_Robes.png/50px-Icon_Leona_SR_Ceremonial_Robes.png",
+      "type": "Balanced",
+      "maxHP": "9,365",
+      "maxATK": "4,992",
+      "spells": "Forest Strike Water Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (SR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a9/Icon_Leona_SR_Halloween.png/50px-Icon_Leona_SR_Halloween.png",
+      "type": "Attack",
+      "maxHP": "7,931",
+      "maxATK": "5,716",
+      "spells": "Zero Ray Fire Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a1/Icon_Leona_SR_Labwear.png/50px-Icon_Leona_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "12,822",
+      "maxATK": "3,578",
+      "spells": "Aqua Wave Fire Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/dc/Icon_Leona_SSR_Birthday_Boy.png/50px-Icon_Leona_SSR_Birthday_Boy.png",
+      "type": "Balanced",
+      "maxHP": "11,966",
+      "maxATK": "5,992",
+      "spells": "Aqua Wave Flame Blast II Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/2b/Icon_Leona_SSR_Birthday_Jacket.png/50px-Icon_Leona_SSR_Birthday_Jacket.png",
+      "type": "Attack",
+      "maxHP": "10,072",
+      "maxATK": "6,918",
+      "spells": "Forest Strike Flame Blast II Void Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/03/Icon_Leona_SSR_Dorm_Uniform.png/50px-Icon_Leona_SSR_Dorm_Uniform.png",
+      "type": "Attack",
+      "maxHP": "8,565",
+      "maxATK": "7,683",
+      "spells": "Forest Strike II Forest Strike II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (SSR Gala Couture)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e5/Icon_Leona_SSR_Gala_Couture.png/50px-Icon_Leona_SSR_Gala_Couture.png",
+      "type": "Defense",
+      "maxHP": "13,797",
+      "maxATK": "5,233",
+      "spells": "Forest Strike Aqua Wave II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Kalim",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (SSR Kingly Garb)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/0b/Icon_Leona_SSR_Kingly_Garb.png/50px-Icon_Leona_SSR_Kingly_Garb.png",
+      "type": "Defense",
+      "maxHP": "15,340",
+      "maxATK": "4,579",
+      "spells": "Flame Blast Zero Ray II Water Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor HP & Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Leona (SSR Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/7e/Icon_Leona_SSR_Tsumsted.png/50px-Icon_Leona_SSR_Tsumsted.png",
+      "type": "Defense",
+      "maxHP": "15,849",
+      "maxATK": "4,440",
+      "spells": "Flame Blast Forest Strike II Water Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/4e/Icon_Lilia_R_PE_Uniform.png/50px-Icon_Lilia_R_PE_Uniform.png",
+      "type": "Attack",
+      "maxHP": "5,734",
+      "maxATK": "5,363",
+      "spells": "Forest Strike Water Shot II",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a7/Icon_Lilia_R_School_Uniform.png/50px-Icon_Lilia_R_School_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "8,080",
+      "maxATK": "4,145",
+      "spells": "Fire Shot Forest Strike",
+      "buddies": [
+        {
+          "name": "Malleus",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (R Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/29/Icon_Lilia_R_Tsumsted.png/50px-Icon_Lilia_R_Tsumsted.png",
+      "type": "Balanced",
+      "maxHP": "7,938",
+      "maxATK": "3,796",
+      "spells": "Water Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/31/Icon_Lilia_SR_Apprentice_Chef.png/50px-Icon_Lilia_SR_Apprentice_Chef.png",
+      "type": "Defense",
+      "maxHP": "12,746",
+      "maxATK": "3,598",
+      "spells": "Flame Blast Water Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/d0/Icon_Lilia_SR_Ceremonial_Robes.png/50px-Icon_Lilia_SR_Ceremonial_Robes.png",
+      "type": "Defense",
+      "maxHP": "12,561",
+      "maxATK": "3,648",
+      "spells": "Forest Strike Fire Shot II",
+      "buddies": [
+        {
+          "name": "Silver",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Cater",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/86/Icon_Lilia_SR_Halloween.png/50px-Icon_Lilia_SR_Halloween.png",
+      "type": "Balanced",
+      "maxHP": "9,877",
+      "maxATK": "4,725",
+      "spells": "Flame Blast Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SR Kingly Garb)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/36/Icon_Lilia_SR_Kingly_Garb.png/50px-Icon_Lilia_SR_Kingly_Garb.png",
+      "type": "Defense",
+      "maxHP": "10,712",
+      "maxATK": "3,959",
+      "spells": "Void Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/86/Icon_Lilia_SR_Labwear.png/50px-Icon_Lilia_SR_Labwear.png",
+      "type": "Attack",
+      "maxHP": "8,401",
+      "maxATK": "5,400",
+      "spells": "Aqua Wave Water Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SR Suitor Suit)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/90/Icon_Lilia_SR_Suitor_Suit.png/50px-Icon_Lilia_SR_Suitor_Suit.png",
+      "type": "Defense",
+      "maxHP": "10,299",
+      "maxATK": "4,125",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Idia",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/cf/Icon_Lilia_SSR_Birthday_Boy.png/50px-Icon_Lilia_SSR_Birthday_Boy.png",
+      "type": "Balanced",
+      "maxHP": "12,234",
+      "maxATK": "5,856",
+      "spells": "Flame Blast Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/2e/Icon_Lilia_SSR_Birthday_Jacket.png/50px-Icon_Lilia_SSR_Birthday_Jacket.png",
+      "type": "Defense",
+      "maxHP": "13,991",
+      "maxATK": "5,160",
+      "spells": "Zero Ray Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/74/Icon_Lilia_SSR_Broomquet_Birthday.png/50px-Icon_Lilia_SSR_Broomquet_Birthday.png",
+      "type": "Attack",
+      "maxHP": "9,981",
+      "maxATK": "6,976",
+      "spells": "Flame Blast Forest Strike II Void Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/4e/Icon_Lilia_SSR_Dorm_Uniform.png/50px-Icon_Lilia_SSR_Dorm_Uniform.png",
+      "type": "Defense",
+      "maxHP": "13,641",
+      "maxATK": "5,296",
+      "spells": "Forest Strike Zero Ray II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Lilia (SSR Pop Music T-Shirt)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/58/Icon_Lilia_SSR_Pop_Music_T-Shirt.png/50px-Icon_Lilia_SSR_Pop_Music_T-Shirt.png",
+      "type": "Defense",
+      "maxHP": "16,307",
+      "maxATK": "4,314",
+      "spells": "Aqua Wave Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Jack",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/7e/Icon_Malleus_R_PE_Uniform.png/50px-Icon_Malleus_R_PE_Uniform.png",
+      "type": "Defense",
+      "maxHP": "8,905",
+      "maxATK": "3,783",
+      "spells": "Void Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/59/Icon_Malleus_R_School_Uniform.png/50px-Icon_Malleus_R_School_Uniform.png",
+      "type": "Defense",
+      "maxHP": "10,930",
+      "maxATK": "3,008",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/31/Icon_Malleus_SR_Apprentice_Chef.png/50px-Icon_Malleus_SR_Apprentice_Chef.png",
+      "type": "Defense",
+      "maxHP": "12,969",
+      "maxATK": "3,540",
+      "spells": "Flame Blast Water Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/9c/Icon_Malleus_SR_Ceremonial_Robes.png/50px-Icon_Malleus_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "8,301",
+      "maxATK": "6,014",
+      "spells": "Forest Strike Water Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (SR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/42/Icon_Malleus_SR_Halloween.png/50px-Icon_Malleus_SR_Halloween.png",
+      "type": "Attack",
+      "maxHP": "8,496",
+      "maxATK": "5,338",
+      "spells": "Flame Blast Fire Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/26/Icon_Malleus_SR_Labwear.png/50px-Icon_Malleus_SR_Labwear.png",
+      "type": "Balanced",
+      "maxHP": "9,748",
+      "maxATK": "5,289",
+      "spells": "Aqua Wave Fire Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (SR Silk Adorned)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/21/Icon_Malleus_SR_Silk_Adorned.png/50px-Icon_Malleus_SR_Silk_Adorned.png",
+      "type": "Attack",
+      "maxHP": "6,578",
+      "maxATK": "6,520",
+      "spells": "Aqua Wave Forest Strike II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/85/Icon_Malleus_SSR_Birthday_Boy.png/50px-Icon_Malleus_SSR_Birthday_Boy.png",
+      "type": "Attack",
+      "maxHP": "10,303",
+      "maxATK": "6,757",
+      "spells": "Forest Strike Aqua Wave II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Idia",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c3/Icon_Malleus_SSR_Birthday_Jacket.png/50px-Icon_Malleus_SSR_Birthday_Jacket.png",
+      "type": "Balanced",
+      "maxHP": "11,430",
+      "maxATK": "6,274",
+      "spells": "Flame Blast Forest Strike II Void Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/b6/Icon_Malleus_SSR_Broomquet_Birthday.png/50px-Icon_Malleus_SSR_Broomquet_Birthday.png",
+      "type": "Attack",
+      "maxHP": "9,691",
+      "maxATK": "7,171",
+      "spells": "Aqua Wave Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Leona",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/f3/Icon_Malleus_SSR_Dorm_Uniform.png/50px-Icon_Malleus_SSR_Dorm_Uniform.png",
+      "type": "Attack",
+      "maxHP": "8,830",
+      "maxATK": "7,439",
+      "spells": "Zero Ray II Zero Ray II Void Shot II",
+      "buddies": [
+        {
+          "name": "Silver",
+          "bonus": "Minor HP boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor HP & Power boost"
+        }
+      ]
+    },
+    {
+      "name": "Malleus (SSR Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/d2/Icon_Malleus_SSR_Masquerade_Dress.png/50px-Icon_Malleus_SSR_Masquerade_Dress.png",
+      "type": "Defense",
+      "maxHP": "14,186",
+      "maxATK": "5,083",
+      "spells": "Forest Strike Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (R Archetype Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a3/Icon_Ortho_R_Archetype_Gear.png/50px-Icon_Ortho_R_Archetype_Gear.png",
+      "type": "Defense",
+      "maxHP": "9,617",
+      "maxATK": "3,674",
+      "spells": "Water Shot Aqua Wave",
+      "buddies": [
+        {
+          "name": "Idia",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (R Athletic Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c2/Icon_Ortho_R_Athletic_Gear.png/50px-Icon_Ortho_R_Athletic_Gear.png",
+      "type": "Balanced",
+      "maxHP": "7,879",
+      "maxATK": "4,254",
+      "spells": "Fire Shot Zero Ray",
+      "buddies": [
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (R College Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/d8/Icon_Ortho_R_College_Gear.png/50px-Icon_Ortho_R_College_Gear.png",
+      "type": "Defense",
+      "maxHP": "10,773",
+      "maxATK": "3,054",
+      "spells": "Leaf Shot Flame Blast",
+      "buddies": [
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (R Halloween Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/d1/Icon_Ortho_R_Halloween_Gear.png/50px-Icon_Ortho_R_Halloween_Gear.png",
+      "type": "Attack",
+      "maxHP": "5,511",
+      "maxATK": "5,040",
+      "spells": "Fire Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (SR Burst Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/96/Icon_Ortho_SR_Burst_Gear.png/50px-Icon_Ortho_SR_Burst_Gear.png",
+      "type": "Balanced",
+      "maxHP": "9,632",
+      "maxATK": "4,850",
+      "spells": "Forest Strike Water Shot II",
+      "buddies": [
+        {
+          "name": "Epel",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (SR Precision Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/b5/Icon_Ortho_SR_Precision_Gear.png/50px-Icon_Ortho_SR_Precision_Gear.png",
+      "type": "Defense",
+      "maxHP": "13,561",
+      "maxATK": "3,378",
+      "spells": "Flame Blast Forest Strike II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (SR Stargazer Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/b4/Icon_Ortho_SR_Stargazer_Gear.png/50px-Icon_Ortho_SR_Stargazer_Gear.png",
+      "type": "Attack",
+      "maxHP": "6,964",
+      "maxATK": "6,160",
+      "spells": "Aqua Wave Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (SR Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/13/Icon_Ortho_SR_Tsumsted.png/50px-Icon_Ortho_SR_Tsumsted.png",
+      "type": "Balanced",
+      "maxHP": "9,064",
+      "maxATK": "5,147",
+      "spells": "Zero Ray Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Kalim",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (SSR Birthday Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/88/Icon_Ortho_SSR_Birthday_Gear.png/50px-Icon_Ortho_SSR_Birthday_Gear.png",
+      "type": "Defense",
+      "maxHP": "14,147",
+      "maxATK": "5,097",
+      "spells": "Zero Ray Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (SSR Fairy Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/77/Icon_Ortho_SSR_Fairy_Gear.png/50px-Icon_Ortho_SSR_Fairy_Gear.png",
+      "type": "Balanced",
+      "maxHP": "11,195",
+      "maxATK": "6,396",
+      "spells": "Forest Strike Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jack",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (SSR Ignihyde Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/fc/Icon_Ortho_SSR_Ignihyde_Gear.png/50px-Icon_Ortho_SSR_Ignihyde_Gear.png",
+      "type": "Attack",
+      "maxHP": "10,217",
+      "maxATK": "6,815",
+      "spells": "Flame Blast Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Leona",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ortho (SSR Union Gear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/38/Icon_Ortho_SSR_Union_Gear.png/50px-Icon_Ortho_SSR_Union_Gear.png",
+      "type": "Defense",
+      "maxHP": "13,836",
+      "maxATK": "5,219",
+      "spells": "Aqua Wave Flame Blast II Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Cater",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (R Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/10/Icon_Riddle_R_Masquerade_Dress.png/50px-Icon_Riddle_R_Masquerade_Dress.png",
+      "type": "Defense",
+      "maxHP": "10,501",
+      "maxATK": "2,827",
+      "spells": "Water Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/01/Icon_Riddle_R_PE_Uniform.png/50px-Icon_Riddle_R_PE_Uniform.png",
+      "type": "Defense",
+      "maxHP": "8,823",
+      "maxATK": "3,812",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/5c/Icon_Riddle_R_School_Uniform.png/50px-Icon_Riddle_R_School_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "7,581",
+      "maxATK": "4,410",
+      "spells": "Flame Blast Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/24/Icon_Riddle_SR_Apprentice_Chef.png/50px-Icon_Riddle_SR_Apprentice_Chef.png",
+      "type": "Defense",
+      "maxHP": "10,525",
+      "maxATK": "4,462",
+      "spells": "Zero Ray Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/79/Icon_Riddle_SR_Ceremonial_Robes.png/50px-Icon_Riddle_SR_Ceremonial_Robes.png",
+      "type": "Defense",
+      "maxHP": "12,268",
+      "maxATK": "3,733",
+      "spells": "Flame Blast Water Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/90/Icon_Riddle_SR_Labwear.png/50px-Icon_Riddle_SR_Labwear.png",
+      "type": "Attack",
+      "maxHP": "7,861",
+      "maxATK": "5,765",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (SR Suitor Suit)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/aa/Icon_Riddle_SR_Suitor_Suit.png/50px-Icon_Riddle_SR_Suitor_Suit.png",
+      "type": "Balanced",
+      "maxHP": "8,561",
+      "maxATK": "4,919",
+      "spells": "Leaf Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/d0/Icon_Riddle_SSR_Birthday_Boy.png/50px-Icon_Riddle_SSR_Birthday_Boy.png",
+      "type": "Balanced",
+      "maxHP": "11,867",
+      "maxATK": "6,048",
+      "spells": "Aqua Wave Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/cb/Icon_Riddle_SSR_Birthday_Jacket.png/50px-Icon_Riddle_SSR_Birthday_Jacket.png",
+      "type": "Balanced",
+      "maxHP": "11,261",
+      "maxATK": "6,359",
+      "spells": "Zero Ray Forest Strike II Water Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/ef/Icon_Riddle_SSR_Dorm_Uniform.png/50px-Icon_Riddle_SSR_Dorm_Uniform.png",
+      "type": "Attack",
+      "maxHP": "8,250",
+      "maxATK": "7,979",
+      "spells": "Flame Blast II Flame Blast II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (SSR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/cf/Icon_Riddle_SSR_Halloween.png/50px-Icon_Riddle_SSR_Halloween.png",
+      "type": "Attack",
+      "maxHP": "10,593",
+      "maxATK": "6,562",
+      "spells": "Forest Strike Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Riddle (SSR Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/25/Icon_Riddle_SSR_Tsumsted.png/50px-Icon_Riddle_SSR_Tsumsted.png",
+      "type": "Defense",
+      "maxHP": "13,913",
+      "maxATK": "5,188",
+      "spells": "Zero Ray Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (R Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/fa/Icon_Rook_R_Masquerade_Dress.png/50px-Icon_Rook_R_Masquerade_Dress.png",
+      "type": "Defense",
+      "maxHP": "10,117",
+      "maxATK": "2,933",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e9/Icon_Rook_R_PE_Uniform.png/50px-Icon_Rook_R_PE_Uniform.png",
+      "type": "Defense",
+      "maxHP": "9,435",
+      "maxATK": "3,576",
+      "spells": "Zero Ray Fire Shot II",
+      "buddies": [
+        {
+          "name": "Epel",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c4/Icon_Rook_R_School_Uniform.png/50px-Icon_Rook_R_School_Uniform.png",
+      "type": "Attack",
+      "maxHP": "5,768",
+      "maxATK": "5,336",
+      "spells": "Water Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Vil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (R Suitor Suit)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/fa/Icon_Rook_R_Suitor_Suit.png/50px-Icon_Rook_R_Suitor_Suit.png",
+      "type": "Attack",
+      "maxHP": "6,524",
+      "maxATK": "4,496",
+      "spells": "Fire Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ortho",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/82/Icon_Rook_SR_Apprentice_Chef.png/50px-Icon_Rook_SR_Apprentice_Chef.png",
+      "type": "Defense",
+      "maxHP": "12,306",
+      "maxATK": "3,721",
+      "spells": "Flame Blast Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SR Beans Camo)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/6d/Icon_Rook_SR_Beans_Camo.png/50px-Icon_Rook_SR_Beans_Camo.png",
+      "type": "Attack",
+      "maxHP": "6,945",
+      "maxATK": "6,179",
+      "spells": "Forest Strike Water Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/74/Icon_Rook_SR_Ceremonial_Robes.png/50px-Icon_Rook_SR_Ceremonial_Robes.png",
+      "type": "Defense",
+      "maxHP": "11,374",
+      "maxATK": "4,134",
+      "spells": "Flame Blast Water Shot II",
+      "buddies": [
+        {
+          "name": "Floyd",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/1b/Icon_Rook_SR_Labwear.png/50px-Icon_Rook_SR_Labwear.png",
+      "type": "Attack",
+      "maxHP": "8,330",
+      "maxATK": "5,449",
+      "spells": "Forest Strike Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SR Port Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/1f/Icon_Rook_SR_Port_Wear.png/50px-Icon_Rook_SR_Port_Wear.png",
+      "type": "Defense",
+      "maxHP": "12,846",
+      "maxATK": "3,215",
+      "spells": "Fire Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SR Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/06/Icon_Rook_SR_Tsumsted.png/50px-Icon_Rook_SR_Tsumsted.png",
+      "type": "Attack",
+      "maxHP": "7,042",
+      "maxATK": "6,089",
+      "spells": "Forest Strike Fire Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/54/Icon_Rook_SSR_Birthday_Boy.png/50px-Icon_Rook_SSR_Birthday_Boy.png",
+      "type": "Balanced",
+      "maxHP": "11,562",
+      "maxATK": "6,204",
+      "spells": "Zero Ray Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/fd/Icon_Rook_SSR_Birthday_Jacket.png/50px-Icon_Rook_SSR_Birthday_Jacket.png",
+      "type": "Attack",
+      "maxHP": "10,507",
+      "maxATK": "6,621",
+      "spells": "Forest Strike Aqua Wave II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/4/42/Icon_Rook_SSR_Broomquet_Birthday.png/50px-Icon_Rook_SSR_Broomquet_Birthday.png",
+      "type": "Defense",
+      "maxHP": "14,264",
+      "maxATK": "5,051",
+      "spells": "Flame Blast Forest Strike II Void Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/8f/Icon_Rook_SSR_Dorm_Uniform.png/50px-Icon_Rook_SSR_Dorm_Uniform.png",
+      "type": "Attack",
+      "maxHP": "9,750",
+      "maxATK": "7,132",
+      "spells": "Forest Strike Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Rook (SSR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/18/Icon_Rook_SSR_Halloween.png/50px-Icon_Rook_SSR_Halloween.png",
+      "type": "Defense",
+      "maxHP": "13,719",
+      "maxATK": "5,265",
+      "spells": "Aqua Wave Forest Strike II Void Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Trey",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (R Gala Couture)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/8a/Icon_Ruggie_R_Gala_Couture.png/50px-Icon_Ruggie_R_Gala_Couture.png",
+      "type": "Attack",
+      "maxHP": "6,491",
+      "maxATK": "4,517",
+      "spells": "Void Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (R Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/ec/Icon_Ruggie_R_Masquerade_Dress.png/50px-Icon_Ruggie_R_Masquerade_Dress.png",
+      "type": "Attack",
+      "maxHP": "5,730",
+      "maxATK": "4,837",
+      "spells": "Fire Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Silver",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c8/Icon_Ruggie_R_PE_Uniform.png/50px-Icon_Ruggie_R_PE_Uniform.png",
+      "type": "Attack",
+      "maxHP": "6,950",
+      "maxATK": "4,678",
+      "spells": "Aqua Wave Fire Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/61/Icon_Ruggie_R_School_Uniform.png/50px-Icon_Ruggie_R_School_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "7,921",
+      "maxATK": "4,229",
+      "spells": "Leaf Shot Aqua Wave",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/d2/Icon_Ruggie_SR_Apprentice_Chef.png/50px-Icon_Ruggie_SR_Apprentice_Chef.png",
+      "type": "Attack",
+      "maxHP": "8,542",
+      "maxATK": "5,307",
+      "spells": "Flame Blast Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/f0/Icon_Ruggie_SR_Ceremonial_Robes.png/50px-Icon_Ruggie_SR_Ceremonial_Robes.png",
+      "type": "Defense",
+      "maxHP": "13,007",
+      "maxATK": "3,528",
+      "spells": "Forest Strike Flame Blast II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/53/Icon_Ruggie_SR_Halloween.png/50px-Icon_Ruggie_SR_Halloween.png",
+      "type": "Defense",
+      "maxHP": "10,401",
+      "maxATK": "4,512",
+      "spells": "Flame Blast Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/9c/Icon_Ruggie_SR_Labwear.png/50px-Icon_Ruggie_SR_Labwear.png",
+      "type": "Attack",
+      "maxHP": "6,906",
+      "maxATK": "6,217",
+      "spells": "Flame Blast Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SR Port Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/63/Icon_Ruggie_SR_Port_Wear.png/50px-Icon_Ruggie_SR_Port_Wear.png",
+      "type": "Defense",
+      "maxHP": "12,490",
+      "maxATK": "3,671",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/d2/Icon_Ruggie_SSR_Birthday_Boy.png/50px-Icon_Ruggie_SSR_Birthday_Boy.png",
+      "type": "Balanced",
+      "maxHP": "11,632",
+      "maxATK": "6,171",
+      "spells": "Forest Strike Flame Blast II Void Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/f3/Icon_Ruggie_SSR_Birthday_Jacket.png/50px-Icon_Ruggie_SSR_Birthday_Jacket.png",
+      "type": "Attack",
+      "maxHP": "10,185",
+      "maxATK": "6,840",
+      "spells": "Forest Strike Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/33/Icon_Ruggie_SSR_Broomquet_Birthday.png/50px-Icon_Ruggie_SSR_Broomquet_Birthday.png",
+      "type": "Defense",
+      "maxHP": "13,680",
+      "maxATK": "5,278",
+      "spells": "Zero Ray Forest Strike II Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Jack",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/9b/Icon_Ruggie_SSR_Dorm_Uniform.png/50px-Icon_Ruggie_SSR_Dorm_Uniform.png",
+      "type": "Defense",
+      "maxHP": "13,018",
+      "maxATK": "5,541",
+      "spells": "Zero Ray Aqua Wave II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Jack",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SSR New Year's Attire)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/88/Icon_Ruggie_SSR_New_Year%27s_Attire.png/50px-Icon_Ruggie_SSR_New_Year%27s_Attire.png",
+      "type": "Attack",
+      "maxHP": "10,013",
+      "maxATK": "6,956",
+      "spells": "Flame Blast Aqua Wave II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Jack",
+          "bonus": "Minor HP & Power Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Ruggie (SSR Outdoor Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/86/Icon_Ruggie_SSR_Outdoor_Wear.png/50px-Icon_Ruggie_SSR_Outdoor_Wear.png",
+      "type": "Attack",
+      "maxHP": "8,805",
+      "maxATK": "7,460",
+      "spells": "Aqua Wave Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (R Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/21/Icon_Sebek_R_Halloween.png/50px-Icon_Sebek_R_Halloween.png",
+      "type": "Attack",
+      "maxHP": "6,642",
+      "maxATK": "4,418",
+      "spells": "Void Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/3d/Icon_Sebek_R_PE_Uniform.png/50px-Icon_Sebek_R_PE_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "7,761",
+      "maxATK": "4,313",
+      "spells": "Forest Strike Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/73/Icon_Sebek_R_School_Uniform.png/50px-Icon_Sebek_R_School_Uniform.png",
+      "type": "Defense",
+      "maxHP": "9,140",
+      "maxATK": "3,690",
+      "spells": "Water Shot Flame Blast",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (R Tsumsted)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/55/Icon_Sebek_R_Tsumsted.png/50px-Icon_Sebek_R_Tsumsted.png",
+      "type": "Defense",
+      "maxHP": "10,676",
+      "maxATK": "2,774",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Epel",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SR Apple Boa)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/f1/Icon_Sebek_SR_Apple_Boa.png/50px-Icon_Sebek_SR_Apple_Boa.png",
+      "type": "Defense",
+      "maxHP": "11,308",
+      "maxATK": "4,155",
+      "spells": "Forest Strike Fire Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/30/Icon_Sebek_SR_Apprentice_Chef.png/50px-Icon_Sebek_SR_Apprentice_Chef.png",
+      "type": "Defense",
+      "maxHP": "13,414",
+      "maxATK": "3,416",
+      "spells": "Aqua Wave Fire Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/70/Icon_Sebek_SR_Ceremonial_Robes.png/50px-Icon_Sebek_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "8,567",
+      "maxATK": "5,289",
+      "spells": "Flame Blast Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c2/Icon_Sebek_SR_Labwear.png/50px-Icon_Sebek_SR_Labwear.png",
+      "type": "Attack",
+      "maxHP": "6,848",
+      "maxATK": "6,269",
+      "spells": "Flame Blast Water Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SR Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/2d/Icon_Sebek_SR_Masquerade_Dress.png/50px-Icon_Sebek_SR_Masquerade_Dress.png",
+      "type": "Defense",
+      "maxHP": "12,931",
+      "maxATK": "3,548",
+      "spells": "Zero Ray Fire Shot II",
+      "buddies": [
+        {
+          "name": "Vil",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SR Outdoor Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/32/Icon_Sebek_SR_Outdoor_Wear.png/50px-Icon_Sebek_SR_Outdoor_Wear.png",
+      "type": "Defense",
+      "maxHP": "12,078",
+      "maxATK": "3,428",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/9c/Icon_Sebek_SSR_Birthday_Boy.png/50px-Icon_Sebek_SSR_Birthday_Boy.png",
+      "type": "Balanced",
+      "maxHP": "11,397",
+      "maxATK": "6,293",
+      "spells": "Flame Blast Aqua Wave II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Cater",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/8d/Icon_Sebek_SSR_Birthday_Jacket.png/50px-Icon_Sebek_SSR_Birthday_Jacket.png",
+      "type": "Attack",
+      "maxHP": "10,389",
+      "maxATK": "6,699",
+      "spells": "Forest Strike Flame Blast II Void Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/64/Icon_Sebek_SSR_Broomquet_Birthday.png/50px-Icon_Sebek_SSR_Broomquet_Birthday.png",
+      "type": "Defense",
+      "maxHP": "13,174",
+      "maxATK": "5,478",
+      "spells": "Forest Strike Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/1f/Icon_Sebek_SSR_Dorm_Uniform.png/50px-Icon_Sebek_SSR_Dorm_Uniform.png",
+      "type": "Attack",
+      "maxHP": "10,040",
+      "maxATK": "6,937",
+      "spells": "Aqua Wave Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Sebek (SSR New Year's Attire)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/37/Icon_Sebek_SSR_New_Year%27s_Attire.png/50px-Icon_Sebek_SSR_New_Year%27s_Attire.png",
+      "type": "Defense",
+      "maxHP": "14,069",
+      "maxATK": "5,129",
+      "spells": "Zero Ray Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Floyd",
+          "bonus": "Minor HP & Power Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (R Masquerade Dress)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/5c/Icon_Silver_R_Masquerade_Dress.png/50px-Icon_Silver_R_Masquerade_Dress.png",
+      "type": "Balanced",
+      "maxHP": "7,782",
+      "maxATK": "3,876",
+      "spells": "Water Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Epel",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/23/Icon_Silver_R_PE_Uniform.png/50px-Icon_Silver_R_PE_Uniform.png",
+      "type": "Defense",
+      "maxHP": "9,565",
+      "maxATK": "3,520",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Vil",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/0c/Icon_Silver_R_School_Uniform.png/50px-Icon_Silver_R_School_Uniform.png",
+      "type": "Attack",
+      "maxHP": "5,522",
+      "maxATK": "5,562",
+      "spells": "Aqua Wave Fire Shot II",
+      "buddies": [
+        {
+          "name": "Sebek",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a4/Icon_Silver_SR_Apprentice_Chef.png/50px-Icon_Silver_SR_Apprentice_Chef.png",
+      "type": "Attack",
+      "maxHP": "8,164",
+      "maxATK": "5,556",
+      "spells": "Flame Blast Aqua Wave II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/17/Icon_Silver_SR_Ceremonial_Robes.png/50px-Icon_Silver_SR_Ceremonial_Robes.png",
+      "type": "Balanced",
+      "maxHP": "9,038",
+      "maxATK": "5,160",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jamil",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (SR Gala Couture)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/87/Icon_Silver_SR_Gala_Couture.png/50px-Icon_Silver_SR_Gala_Couture.png",
+      "type": "Attack",
+      "maxHP": "6,543",
+      "maxATK": "5,918",
+      "spells": "Water Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/5/5b/Icon_Silver_SR_Labwear.png/50px-Icon_Silver_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "13,300",
+      "maxATK": "3,447",
+      "spells": "Flame Blast Void Shot II",
+      "buddies": [
+        {
+          "name": "Kalim",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/3/38/Icon_Silver_SSR_Birthday_Boy.png/50px-Icon_Silver_SSR_Birthday_Boy.png",
+      "type": "Defense",
+      "maxHP": "12,940",
+      "maxATK": "5,568",
+      "spells": "Flame Blast Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/8a/Icon_Silver_SSR_Birthday_Jacket.png/50px-Icon_Silver_SSR_Birthday_Jacket.png",
+      "type": "Attack",
+      "maxHP": "10,489",
+      "maxATK": "6,635",
+      "spells": "Aqua Wave Forest Strike II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e6/Icon_Silver_SSR_Dorm_Uniform.png/50px-Icon_Silver_SSR_Dorm_Uniform.png",
+      "type": "Defense",
+      "maxHP": "16,218",
+      "maxATK": "4,339",
+      "spells": "Zero Ray Forest Strike II Water Shot II",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Silver (SSR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/14/Icon_Silver_SSR_Halloween.png/50px-Icon_Silver_SSR_Halloween.png",
+      "type": "Balanced",
+      "maxHP": "11,228",
+      "maxATK": "6,377",
+      "spells": "Flame Blast Flame Blast II Water Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/1b/Icon_Trey_R_PE_Uniform.png/50px-Icon_Trey_R_PE_Uniform.png",
+      "type": "Defense",
+      "maxHP": "9,218",
+      "maxATK": "3,658",
+      "spells": "Fire Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/db/Icon_Trey_R_School_Uniform.png/50px-Icon_Trey_R_School_Uniform.png",
+      "type": "Attack",
+      "maxHP": "7,251",
+      "maxATK": "4,478",
+      "spells": "Leaf Shot Fire Shot",
+      "buddies": [
+        {
+          "name": "Cater",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (R Silk Adorned)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/c/c5/Icon_Trey_R_Silk_Adorned.png/50px-Icon_Trey_R_Silk_Adorned.png",
+      "type": "Attack",
+      "maxHP": "5,666",
+      "maxATK": "4,892",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Malleus",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (R Starsending Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/d1/Icon_Trey_R_Starsending_Robes.png/50px-Icon_Trey_R_Starsending_Robes.png",
+      "type": "Balanced",
+      "maxHP": "7,891",
+      "maxATK": "3,822",
+      "spells": "Fire Shot Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (SR Apprentice Chef)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/13/Icon_Trey_SR_Apprentice_Chef.png/50px-Icon_Trey_SR_Apprentice_Chef.png",
+      "type": "Attack",
+      "maxHP": "7,142",
+      "maxATK": "5,999",
+      "spells": "Zero Ray Water Shot II",
+      "buddies": [
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Vil",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/f/fa/Icon_Trey_SR_Ceremonial_Robes.png/50px-Icon_Trey_SR_Ceremonial_Robes.png",
+      "type": "Balanced",
+      "maxHP": "9,227",
+      "maxATK": "5,061",
+      "spells": "Forest Strike Void Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (SR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/92/Icon_Trey_SR_Halloween.png/50px-Icon_Trey_SR_Halloween.png",
+      "type": "Balanced",
+      "maxHP": "9,687",
+      "maxATK": "4,824",
+      "spells": "Forest Strike Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Floyd",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/71/Icon_Trey_SR_Labwear.png/50px-Icon_Trey_SR_Labwear.png",
+      "type": "Attack",
+      "maxHP": "7,977",
+      "maxATK": "5,685",
+      "spells": "Aqua Wave Flame Blast II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a1/Icon_Trey_SSR_Birthday_Boy.png/50px-Icon_Trey_SSR_Birthday_Boy.png",
+      "type": "Attack",
+      "maxHP": "10,652",
+      "maxATK": "6,523",
+      "spells": "Forest Strike Aqua Wave II Fire Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Ruggie",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/2/23/Icon_Trey_SSR_Birthday_Jacket.png/50px-Icon_Trey_SSR_Birthday_Jacket.png",
+      "type": "Balanced",
+      "maxHP": "12,337",
+      "maxATK": "5,804",
+      "spells": "Zero Ray II Forest Strike II Water Shot II",
+      "buddies": [
+        {
+          "name": "Riddle",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/81/Icon_Trey_SSR_Broomquet_Birthday.png/50px-Icon_Trey_SSR_Broomquet_Birthday.png",
+      "type": "Defense",
+      "maxHP": "13,758",
+      "maxATK": "5,251",
+      "spells": "Aqua Wave Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Malleus",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/b5/Icon_Trey_SSR_Dorm_Uniform.png/50px-Icon_Trey_SSR_Dorm_Uniform.png",
+      "type": "Defense",
+      "maxHP": "15,527",
+      "maxATK": "4,528",
+      "spells": "Aqua Wave Forest Strike II Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Cater",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Idia",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Trey (SSR Outdoor Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/7/71/Icon_Trey_SSR_Outdoor_Wear.png/50px-Icon_Trey_SSR_Outdoor_Wear.png",
+      "type": "Attack",
+      "maxHP": "8,300",
+      "maxATK": "7,932",
+      "spells": "Flame Blast II Zero Ray II Void Shot II",
+      "buddies": [
+        {
+          "name": "Jade",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Ortho",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (R Kingly Garb)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/9/94/Icon_Vil_R_Kingly_Garb.png/50px-Icon_Vil_R_Kingly_Garb.png",
+      "type": "Attack",
+      "maxHP": "5,212",
+      "maxATK": "5,313",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Kalim",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (R PE Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/b/bb/Icon_Vil_R_PE_Uniform.png/50px-Icon_Vil_R_PE_Uniform.png",
+      "type": "Attack",
+      "maxHP": "7,149",
+      "maxATK": "4,543",
+      "spells": "Leaf Shot Water Shot II",
+      "buddies": [
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (R School Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/07/Icon_Vil_R_School_Uniform.png/50px-Icon_Vil_R_School_Uniform.png",
+      "type": "Balanced",
+      "maxHP": "8,379",
+      "maxATK": "3,990",
+      "spells": "Water Shot Fire Shot II",
+      "buddies": [
+        {
+          "name": "Epel",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (SR Beans Camo)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a6/Icon_Vil_SR_Beans_Camo.png/50px-Icon_Vil_SR_Beans_Camo.png",
+      "type": "Defense",
+      "maxHP": "12,429",
+      "maxATK": "3,335",
+      "spells": "Fire Shot Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Floyd",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Modest Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (SR Ceremonial Robes)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/d/d0/Icon_Vil_SR_Ceremonial_Robes.png/50px-Icon_Vil_SR_Ceremonial_Robes.png",
+      "type": "Attack",
+      "maxHP": "6,655",
+      "maxATK": "6,449",
+      "spells": "Flame Blast Aqua Wave II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Modest HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (SR Labwear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/1/16/Icon_Vil_SR_Labwear.png/50px-Icon_Vil_SR_Labwear.png",
+      "type": "Defense",
+      "maxHP": "11,059",
+      "maxATK": "4,254",
+      "spells": "Forest Strike Fire Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (SR New Year's Attire)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/a/a7/Icon_Vil_SR_New_Year%27s_Attire.png/50px-Icon_Vil_SR_New_Year%27s_Attire.png",
+      "type": "Attack",
+      "maxHP": "6,887",
+      "maxATK": "6,231",
+      "spells": "Aqua Wave Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Ace",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor HP & Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (SR Outdoor Wear)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/eb/Icon_Vil_SR_Outdoor_Wear.png/50px-Icon_Vil_SR_Outdoor_Wear.png",
+      "type": "Balanced",
+      "maxHP": "9,821",
+      "maxATK": "4,751",
+      "spells": "Forest Strike Water Shot II",
+      "buddies": [
+        {
+          "name": "Azul",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (SSR Birthday Boy)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/04/Icon_Vil_SSR_Birthday_Boy.png/50px-Icon_Vil_SSR_Birthday_Boy.png",
+      "type": "Attack",
+      "maxHP": "10,421",
+      "maxATK": "6,679",
+      "spells": "Aqua Wave Flame Blast II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Jack",
+          "bonus": "Minor Power Boost"
+        },
+        {
+          "name": "Azul",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Kalim",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (SSR Birthday Jacket)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/e/e6/Icon_Vil_SSR_Birthday_Jacket.png/50px-Icon_Vil_SSR_Birthday_Jacket.png",
+      "type": "Defense",
+      "maxHP": "15,434",
+      "maxATK": "4,554",
+      "spells": "Flame Blast Forest Strike II Water Shot II",
+      "buddies": [
+        {
+          "name": "Trey",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Silver",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (SSR Broomquet Birthday)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/6/64/Icon_Vil_SSR_Broomquet_Birthday.png/50px-Icon_Vil_SSR_Broomquet_Birthday.png",
+      "type": "Attack",
+      "maxHP": "10,734",
+      "maxATK": "6,509",
+      "spells": "Forest Strike Flame Blast II Void Shot II",
+      "buddies": [
+        {
+          "name": "Ruggie",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Jade",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Sebek",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (SSR Dorm Uniform)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/8/86/Icon_Vil_SSR_Dorm_Uniform.png/50px-Icon_Vil_SSR_Dorm_Uniform.png",
+      "type": "Defense",
+      "maxHP": "13,602",
+      "maxATK": "5,310",
+      "spells": "Forest Strike Zero Ray II Leaf Shot II",
+      "buddies": [
+        {
+          "name": "Leona",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Epel",
+          "bonus": "Modest Power Boost"
+        },
+        {
+          "name": "Rook",
+          "bonus": "Minor HP Boost"
+        }
+      ]
+    },
+    {
+      "name": "Vil (SSR Halloween)",
+      "imageUrl": "https://static.miraheze.org/twistedwonderlandwiki/thumb/0/08/Icon_Vil_SSR_Halloween.png/50px-Icon_Vil_SSR_Halloween.png",
+      "type": "Balanced",
+      "maxHP": "11,463",
+      "maxATK": "6,255",
+      "spells": "Flame Blast Aqua Wave II Void Shot II",
+      "buddies": [
+        {
+          "name": "Deuce",
+          "bonus": "Modest HP Boost"
+        },
+        {
+          "name": "Jamil",
+          "bonus": "Minor HP Boost"
+        },
+        {
+          "name": "Lilia",
+          "bonus": "Minor Power Boost"
+        }
+      ]
+    }
+  ]
